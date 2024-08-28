@@ -1,0 +1,10 @@
+.Home{ 
+    /*figure this out*/ 
+    display: flex; /* Use Flexbox to center content */
+    align-items: center; /* Vertically center the content */
+    justify-content: center; /* Horizontally center the content */
+    text-align: center; /* Center the text inside the container */
+    height: 100%;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}

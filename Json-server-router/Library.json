@@ -1,0 +1,67 @@
+{
+  "library": [
+    {
+      "id": "B001",
+      "author": "J.K. Rowling",
+      "issuingPerson": "Alice Smith",
+      "issueDate": "2024-07-01",
+      "submissionDate": "2024-07-15"
+    },
+    {
+      "id": "B002",
+      "author": "Sir George",
+      "issuingPerson": "Bob Johnson",
+      "issueDate": "2024-07-05",
+      "submissionDate": "2024-07-20"
+    },
+    {
+      "id": "B003",
+      "author": "J.R.R. Tolkien",
+      "issuingPerson": "Charlie Brown",
+      "issueDate": "2024-07-10",
+      "submissionDate": "2024-07-25"
+    },
+    {
+      "id": "B004",
+      "author": "Jane Austen",
+      "issuingPerson": "Diana Prince",
+      "issueDate": "2024-07-12",
+      "submissionDate": "2024-07-26"
+    },
+    {
+      "id": "B005",
+      "author": "Agatha Christie",
+      "issuingPerson": "Eve Adams",
+      "issueDate": "2024-07-15",
+      "submissionDate": "2024-07-30"
+    },
+    {
+      "id": "B006",
+      "author": "Stephen King",
+      "issuingPerson": "Frank Castle",
+      "issueDate": "2024-07-20",
+      "submissionDate": "2024-08-05"
+    },
+    {
+      "id": "B007",
+      "author": "Mark Twain",
+      "issuingPerson": "Grace Kelly",
+      "issueDate": "2024-07-22",
+      "submissionDate": "2024-08-07"
+    },
+    {
+      "id": "B008",
+      "author": "F. Scott Fitzgerald",
+      "issuingPerson": "Hank Green",
+      "issueDate": "",
+      "submissionDate": "2024-08-10"
+    },
+    {
+      "id": "12",
+      "author": "J.K. Ro",
+      "issuingPerson": "Alice pathan",
+      "issueDate": "1",
+      "submissionDate": "2"
+    }
+  ]
+}

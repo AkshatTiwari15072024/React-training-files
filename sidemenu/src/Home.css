@@ -1,0 +1,9 @@
+.custom-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #f8f9fa; /* This is a typical light background color used by Bootstrap. Adjust if needed. */
+    height: 100vh;
+  }
+  

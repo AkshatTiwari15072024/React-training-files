@@ -1,0 +1,4 @@
+
+1.	Reuse component  for similar structure and functionality (add/edit)
+2.	Learn more on how we can use state more effectively
+3.	Learn more on how to write JSX clean
